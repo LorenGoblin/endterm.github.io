@@ -1,0 +1,19 @@
+{
+  "name": "endterm",
+  "version": "1.0.0",
+  "description": "Timur EndTerm\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LorenGoblin/endterm.github.io.git"
+  },
+  "author": "Timur Temirbekov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LorenGoblin/endterm.github.io/issues"
+  },
+  "homepage": "https://github.com/LorenGoblin/endterm.github.io#readme"
+}
